@@ -44,7 +44,7 @@ if (teamExists)
       });
 }
 
-function getTeamSchedule(req,res)
+/*function getTeamSchedule(req,res)
 {
 let parameters = req.body.result.parameters;
     if (parameters.team1 == "")
